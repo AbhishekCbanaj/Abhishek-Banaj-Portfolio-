@@ -1,20 +1,7 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+Hello, I'm Abhishek banaj, a dynamic Full Stack Developer with a strong foundation in Python programming. I hold a Bachelor's degree in Computer Applications (BCA), where I honed my skills in full stack development by successfully creating applications and websites as part of various assignments.
 
-## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
- 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+As a Prompt Engineer, I specialize in developing advanced conversational agents using state-of-the-art technologies, including Chat GPT. Leveraging my expertise, I have achieved remarkable results in natural language processing and prompt engineering, enabling me to create engaging and interactive environment.
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+In addition to my development skills, I have a passion for data science and am currently pursuing my MSc in Data Science to expand my knowledge in this field. I have completed a range of courses that encompass project management and applications like Photoshop, Illustrator, and Premiere Pro, empowering me to seamlessly integrate design elements into my work.
+
+I am an enthusiastic learner, always excited to explore new technologies and embrace open ideas. My commitment to excellence will be recognized through several achievements in my journey.
